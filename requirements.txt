@@ -1,9 +1,9 @@
-doc8==0.10.1
-docutils==0.16.0
-pip==22.0.2
+doc8==1.1.1
+docutils==0.16
+pip==22.3.1
 sphinx==5.3.0
-sphinx-copybutton==0.4.0
+sphinx-copybutton==0.5.1
 sphinx-multiversion==0.2.4
-sphinx-rtd-theme==1.0.0
-sphinx-sitemap==2.2.0
-sphinx-tabs==3.2.0
+sphinx-rtd-theme==1.1.1
+sphinx-sitemap==2.4.0
+sphinx-tabs==3.4.1
